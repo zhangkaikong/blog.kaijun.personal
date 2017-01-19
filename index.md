@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zhangkaikong/blog.kaijun.personal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+**你可以使用github的编辑器来编辑此网页，并且可以使用markdown来预览你的内容！**
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
